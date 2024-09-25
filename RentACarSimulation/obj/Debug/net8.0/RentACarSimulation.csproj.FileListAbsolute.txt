@@ -1,0 +1,14 @@
+/Users/e/RiderProjects/RentACarSimulation/RentACarSimulation/bin/Debug/net8.0/RentACarSimulation
+/Users/e/RiderProjects/RentACarSimulation/RentACarSimulation/bin/Debug/net8.0/RentACarSimulation.deps.json
+/Users/e/RiderProjects/RentACarSimulation/RentACarSimulation/bin/Debug/net8.0/RentACarSimulation.runtimeconfig.json
+/Users/e/RiderProjects/RentACarSimulation/RentACarSimulation/bin/Debug/net8.0/RentACarSimulation.dll
+/Users/e/RiderProjects/RentACarSimulation/RentACarSimulation/bin/Debug/net8.0/RentACarSimulation.pdb
+/Users/e/RiderProjects/RentACarSimulation/RentACarSimulation/obj/Debug/net8.0/RentACarSimulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/e/RiderProjects/RentACarSimulation/RentACarSimulation/obj/Debug/net8.0/RentACarSimulation.AssemblyInfoInputs.cache
+/Users/e/RiderProjects/RentACarSimulation/RentACarSimulation/obj/Debug/net8.0/RentACarSimulation.AssemblyInfo.cs
+/Users/e/RiderProjects/RentACarSimulation/RentACarSimulation/obj/Debug/net8.0/RentACarSimulation.csproj.CoreCompileInputs.cache
+/Users/e/RiderProjects/RentACarSimulation/RentACarSimulation/obj/Debug/net8.0/RentACarSimulation.dll
+/Users/e/RiderProjects/RentACarSimulation/RentACarSimulation/obj/Debug/net8.0/refint/RentACarSimulation.dll
+/Users/e/RiderProjects/RentACarSimulation/RentACarSimulation/obj/Debug/net8.0/RentACarSimulation.pdb
+/Users/e/RiderProjects/RentACarSimulation/RentACarSimulation/obj/Debug/net8.0/RentACarSimulation.genruntimeconfig.cache
+/Users/e/RiderProjects/RentACarSimulation/RentACarSimulation/obj/Debug/net8.0/ref/RentACarSimulation.dll
